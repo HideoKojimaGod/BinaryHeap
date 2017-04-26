@@ -1,0 +1,6 @@
+c:\users\ск\documents\visual studio 2015\Projects\MaxBinaryHeap\MaxBinaryHeap\bin\Debug\MaxBinaryHeap.exe.config
+C:\Users\СК\documents\visual studio 2015\Projects\MaxBinaryHeap\MaxBinaryHeap\bin\Debug\MaxBinaryHeap.exe
+C:\Users\СК\documents\visual studio 2015\Projects\MaxBinaryHeap\MaxBinaryHeap\bin\Debug\MaxBinaryHeap.pdb
+C:\Users\СК\documents\visual studio 2015\Projects\MaxBinaryHeap\MaxBinaryHeap\obj\Debug\MaxBinaryHeap.csprojResolveAssemblyReference.cache
+C:\Users\СК\documents\visual studio 2015\Projects\MaxBinaryHeap\MaxBinaryHeap\obj\Debug\MaxBinaryHeap.exe
+C:\Users\СК\documents\visual studio 2015\Projects\MaxBinaryHeap\MaxBinaryHeap\obj\Debug\MaxBinaryHeap.pdb
